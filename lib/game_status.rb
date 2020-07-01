@@ -54,7 +54,7 @@ end
 
 
 # Define your WIN_COMBINATIONS constant
- = [ 
+WIN_COMBINATIONS = [ 
 [0,1,2], # top_row 
 [3,4,5], # middle_row 
 [6,7,8], # bottom_row 
